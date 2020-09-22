@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="poster_of_movie">Постер к фильму</string>
+    <string name="most_popular">Самые популярные</string>
+    <string name="top_rated">Наиболее рейтинговые</string>
+    <string name="add_to_favorite">Добавлено в избранное</string>
+    <string name="delete_from_favorite">Удалено из избранного</string>
+    <string name="main">Главная</string>
+    <string name="favorites">Избранное</string>
+    <string name="launch_trailer">Заупстить трейлер</string>
+    <string name="name_label">Название :</string>
+    <string name="original_name_label">Оригинальное название :</string>
+    <string name="rating_label">Рейтинг :</string>
+    <string name="date_label">Дата выхода :</string>
+    <string name="description_label">Описание :</string>
+    <string name="star_to_favorite">Добавить в избранное</string>
+    <string name="big_poster">Большой постер</string>
+</resources>

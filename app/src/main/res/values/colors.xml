@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorChoose">#FF1493</color>
+    <color name="colorNotChosen">#FFFFFF</color>
+    <color name="coolBlackForOrange">#101820</color>
+    <color name="coolOrangeForBlack">#F2AA4C</color>
+    <color name="coolBlueForMint">#00203F</color>
+    <color name="coolMintForBlue">#ADEFD1</color>
+    <color name="textOrange">#E18A07</color>
+    <color name="barGray">#B6B6B6</color>
+</resources>
